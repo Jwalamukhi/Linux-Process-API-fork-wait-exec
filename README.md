@@ -48,6 +48,8 @@ int main(void)
 
 
 ##OUTPUT
+
+
 ![image](https://github.com/Jwalamukhi/Linux-Process-API-fork-wait-exec/assets/145953628/8942a7f3-5a36-41df-b152-36f14ab519e6)
 
 
@@ -76,6 +78,7 @@ exit(0);}
 
 
 ##OUTPUT
+
 ![image](https://github.com/Jwalamukhi/Linux-Process-API-fork-wait-exec/assets/145953628/0700f491-1095-478c-b971-62044f97e7db)
 
 
@@ -100,6 +103,7 @@ int main()
 
 
 ##OUTPUT
+
 ![image](https://github.com/Jwalamukhi/Linux-Process-API-fork-wait-exec/assets/145953628/8197e56d-4c62-47a6-ba50-ce6cec5b6d08)
 
 
